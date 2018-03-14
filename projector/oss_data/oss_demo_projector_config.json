@@ -1,0 +1,14 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "VK Top 10000 publics",
+      "tensorShape": [
+        10000,
+        128
+      ],
+      "tensorPath": "oss_data/vectors.txt",
+      "metadataPath": "oss_data/meta.txt",
+      "bookmarksPath": "oss_data/bookmarks.txt"
+    }
+  ]
+}
